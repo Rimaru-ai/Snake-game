@@ -1,2 +1,3 @@
 # Snake-game
-Classic snake game
+Classic snake game.
+
